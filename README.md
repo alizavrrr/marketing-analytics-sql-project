@@ -57,4 +57,4 @@ The best strategy is to combine paid acquisition with referral growth and improv
 - Window functions
 
 ## 📊 Final Output
-![Results](results.png)  
+![Results](result.png)  
