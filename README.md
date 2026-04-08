@@ -54,4 +54,7 @@ The best strategy is to combine paid acquisition with referral growth and improv
 ## 🛠 Tools
 - SQL (DuckDB)  
 - Aggregations  
-- Window functions  
+- Window functions
+
+## 📊 Final Output
+![Results](results.png)  
